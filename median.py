@@ -1,3 +1,5 @@
+# calculate the median of a list of numbers
+
 n = [3, 5, 7]
 m = [5, 12, 13, 11, 4, 6, 1, 8, 9, 0]
 

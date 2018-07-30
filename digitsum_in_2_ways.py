@@ -1,4 +1,5 @@
-#way 1
+# sum all of the digit of an integer
+# way 1
 def digit_sum(x):
     total = 0
     while x > 0:

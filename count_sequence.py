@@ -1,3 +1,5 @@
+# the number of times the item occurs in the list
+
 a = raw_input('Enter a sentence or a list: ')
 b = raw_input ('Enter a thing to check: ')
 

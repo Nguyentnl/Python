@@ -1,3 +1,6 @@
+# reverse a string
+
+
 def reverse(text):
     word = ""
     l = len(text) - 1
@@ -6,5 +9,6 @@ def reverse(text):
         l -= 1
     return word
 
-a="Nguyen"
-print reverse (a)
+
+a = "Nguyen"
+print reverse(a)

@@ -1,3 +1,5 @@
+#calculate the factorial
+
 # way 1 while
 def factorial_while(x):
     factorial = 1

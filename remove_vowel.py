@@ -1,3 +1,5 @@
+# remove the vowel in a string
+
 original = raw_input('Say something: ')
 
 def anti_vowel(text):

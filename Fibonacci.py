@@ -1,3 +1,5 @@
+# calculate the Fibonacci serie with a given index
+
 # way 1: list and for loop
 number = int(raw_input('Enter an index number in Fibonacci: '))
 a = [1, 1]
