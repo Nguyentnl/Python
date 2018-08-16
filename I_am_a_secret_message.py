@@ -1,4 +1,4 @@
-# remove X
+# remove X in the message
 
 garbled_1 = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
 
